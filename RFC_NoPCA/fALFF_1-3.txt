@@ -1,0 +1,72 @@
+﻿/content/drive/MyDrive/MLDM/Brain/Immagini input/fALFF/1
+/content/drive/MyDrive/MLDM/Brain/Immagini input/fALFF/3
+
+Scaler:  StandardScaler()
+
+f1 (RndSrc): 1.000
+Accuracy (RndSrc): 1.000
+	--> Best score (CV score=0.700):
+	--> Best params:  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (SSS): 0.80 (0.16)
+	-->  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (Leave-One): 0.77 (0.42)
+
+############################
+
+Scaler:  RobustScaler()
+
+f1 (RndSrc): 1.000
+Accuracy (RndSrc): 1.000
+	--> Best score (CV score=0.700):
+	--> Best params:  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (SSS): 0.80 (0.16)
+	-->  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (Leave-One): 0.83 (0.37)
+
+############################
+
+Scaler:  QuantileTransformer()
+
+f1 (RndSrc): 1.000
+Accuracy (RndSrc): 1.000
+	--> Best score (CV score=0.667):
+	--> Best params:  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (SSS): 0.76 (0.17)
+	-->  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (Leave-One): 0.77 (0.42)
+
+############################
+
+Scaler:  MinMaxScaler()
+
+f1 (RndSrc): 1.000
+Accuracy (RndSrc): 1.000
+	--> Best score (CV score=0.767):
+	--> Best params:  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (SSS): 0.79 (0.15)
+	-->  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (Leave-One): 0.77 (0.42)
+
+############################
+
+Scaler:  MaxAbsScaler()
+
+f1 (RndSrc): 1.000
+Accuracy (RndSrc): 1.000
+	--> Best score (CV score=0.733):
+	--> Best params:  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (SSS): 0.75 (0.16)
+	-->  {'pca__n_components': 15, 'logistic__C': 10000.0}
+
+Accuracy (Leave-One): 0.73 (0.44)
+
+############################
