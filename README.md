@@ -1,2 +1,13 @@
 # ML-Techniques-for-MRI-Feature-Based-Detection-of-FTD
-Code repository for Machine Learning Techniques for MRI Feature-Based Detection of Frontotemporal Lobar Degeneration
+
+
+This repository has been created in order to share the methodological steps performed in Machine Learning Techniques for MRI Feature-Based Detection of Frontotemporal Lobar Degeneration.
+
+Specifically, as clarified in the paper, we focused our attention on two alternative algorithms:
+
+- SVM Classifier
+- Random Forest Classifier
+
+Both Python codes are available in the repository. The original dataset is not included, as it is proprietary of the Centre for Ageing
+Brain and Neurodegenerative Disorders, University of Brescia (Brescia, Italy).
+We used Python version 3.8.8, and the packages versions are specified in the requirements.txt file. 
