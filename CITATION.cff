@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  ML Techniques for MRI Feature-Based Detection of
+  FTD
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tatiana
+    email: t.pilipenko@unibs.it
+    orcid: 'https://orcid.org/0000-0003-1991-4980'
+    family-names: Pilipenko
+  - given-names: Alessandro
+    family-names: Gnutti
+    email: alessandro.gnutti@unibs.it
+    orcid: 'https://orcid.org/0000-0002-8308-0776'
+  - given-names: Andrea
+    family-names: Silvestri
+    email: a.silvestri005@studenti.unibs.it
+    orcid: 'https://orcid.org/0000-0002-2670-5725'
+  - given-names: Ivan
+    family-names: Serina
+    email: ivan.serina@unibs.it
+    orcid: 'https://orcid.org/0000-0002-7785-9492'
+  - given-names: Riccardo
+    family-names: Leonardi
+    orcid: 'https://orcid.org/0000-0003-0755-1924'
+    email: riccardo.leonardi@unibs.it
