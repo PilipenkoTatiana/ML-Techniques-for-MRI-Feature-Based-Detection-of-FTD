@@ -8,6 +8,8 @@ Specifically, as clarified in the paper, we focused our attention on two alterna
 - SVM Classifier
 - Random Forest Classifier
 
+All the other techniques we tested on the data are included in the Google Colab's notebook labeled AutoSKlearn_26_11.ipynb.
+
 Both Python codes are available in the repository. The original dataset is not included, as it is proprietary of the Centre for Ageing
 Brain and Neurodegenerative Disorders, University of Brescia (Brescia, Italy).
 We used Python version 3.8.8, and the packages versions are specified in the requirements.txt file. 
