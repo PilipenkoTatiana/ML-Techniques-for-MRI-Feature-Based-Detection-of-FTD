@@ -15,4 +15,4 @@ Brain and Neurodegenerative Disorders, University of Brescia (Brescia, Italy).
 We used Python version 3.8.8, and the packages versions are specified in the requirements.txt file. 
 
 
-The dataset can be requested to Centre for Ageing Brain and Neurodegenerative Disorders (University of Brescia, Italy) for research purposes.
+The dataset used in this work can be requested to the Centre for Ageing Brain and Neurodegenerative Disorders (University of Brescia, Italy) for research purposes.
